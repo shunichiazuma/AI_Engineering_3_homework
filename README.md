@@ -1,0 +1,2 @@
+# AI_Engineering_3_homework
+AIエンジニアリング実践講座第３回任意課題用
